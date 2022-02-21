@@ -1,0 +1,20 @@
+{
+  "name": "tar0t",
+  "frontend:build": "",
+  "frontend:install": "",
+  "frontend:dev": "",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "tar0t",
+  "OutputType": "",
+  "Platform": "",
+  "Author": {
+    "name": "Dr. Gylfin",
+    "github": "https://drgylfin.github.io/"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": ""
+}
